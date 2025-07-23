@@ -21,7 +21,7 @@ Welcome to my GitHub!
 - 💻 I enjoy building **AI/ML-powered applications**, exploring **AI research**, and working on **full-stack projects**
 - 🔬 I’m passionate about using technology to solve impactful real-world problems in **healthcare, finance, and accessibility**
 - 🔭 I’m currently working on research exploring **pivotal tokens and reasoning circuits in LLMs** for mechanistic interpretability
-- 👯 I’m looking to collaborate on **hackathon projects, data-driven business solutions, and impactful open-source tools in a variaty of fields**
+- 👯 I’m looking to collaborate on **hackathon projects, data-driven business solutions, and impactful open-source tools**
 
 ## 🧰 Technologies & Tools
 
