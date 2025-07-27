@@ -27,7 +27,7 @@ Welcome to my GitHub!
 
 - Languages: Python, Java, C++, JavaScript, SQL, MATLAB, TypeScript, LaTex
 - Libraries & Frameworks: PyTorch, pandas, scikit-learn, TensorFlow, React.js, Node.js, Next.js, Express.js, Spring, TailwindCSS, FastAPI
-- Tools & Platforms: Git, Docker, Google Cloud, Cursor, v0, Colab, AWS, Visual Studio Code, IntelliJ, Anthropic Claude
+- Tools & Platforms: Git, Docker, Google Cloud, Cursor, v0, Colab, Visual Studio Code, IntelliJ, Anthropic Claude
 - Interests: NLP, LLMs, transformers/neural networks, and backend engineering
 
 ## 📫 Let’s connect!
