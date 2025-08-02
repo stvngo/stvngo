@@ -22,6 +22,7 @@ Welcome to my GitHub!
 - 🔬 I’m passionate about using technology to solve impactful real-world problems in **healthcare, finance, and accessibility**
 - 🔭 I’m currently working on research exploring **pivotal tokens and reasoning circuits in LLMs** for mechanistic interpretability
 - 👯 I’m looking to collaborate on **hackathon projects, data-driven business solutions, and impactful open-source tools**
+- ⚡ I'm currently learning **frontend frameworks** to implement my backend skills for **full-stack development**
 
 ## 🧰 Technologies & Tools
 
