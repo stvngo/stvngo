@@ -13,28 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I’m Steven!
+## Hi, I’m Steven!
 
 Welcome to my GitHub!  
 
-- 🌱 I’m currently double majoring in **Data Science** and **Mathematics and Computer Science** at **UC San Diego**
-- 💻 I enjoy building **AI/ML-powered applications**, exploring **AI research**, and working on **full-stack projects**
-- 🔬 I’m passionate about using technology to solve impactful real-world problems in **healthcare, finance, and accessibility**
-- 🔭 I’m currently working on research exploring **pivotal tokens and reasoning circuits in LLMs** for mechanistic interpretability
-- 👯 I’m looking to collaborate on **hackathon projects, data-driven business solutions, and impactful open-source tools**
+- I’m currently double majoring in **Data Science** and **Mathematics and Computer Science** at **UC San Diego**
+- I'm working on **physics/biology research** with Dr. Rappel at UCSD, modeling cell motility (aggregative multicellularity) by leveraging **computer vision**/object detection to model eukaryotic/amoebic behavior under starvation
+- I've led ML research on **mechanistic interpretability** of pivotal tokens to predict **CoT reasoning shifts in LLMs** (w/ Cole Blondin & Sean O'Brien, BlackBoxNLP @ EMNLP 2025), and benchmarked **SOTA MLLMs and VLMs** on novel **multimodal spatial reasoning** and planning tasks (w/ Kevin Zhu, FrontierIR @ AAAI 2025)
+- I enjoy building AI-powered applications, exploring ML research, and working on B2B products for startups, particularly those that solve impactful real-world problems in **policy, healthcare, finance, etc.**
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 - Languages: Python, Java, C++, JavaScript/TypeScript, SQL, MATLAB, LaTex
-- Libraries & Frameworks: PyTorch, pandas, scikit-learn, TensorFlow, React.js, Node.js, Next.js, Express.js, Spring, TailwindCSS, FastAPI
-- Tools & Platforms: Git, Docker, Google Cloud, Cursor, v0, Colab, Visual Studio Code, IntelliJ, Anthropic Claude
+- Libraries & Frameworks: PyTorch, pandas, scikit-learn, React.js, Node.js, Next.js, Express.js, TailwindCSS, FastAPI
+- Tools & Platforms: Git, Docker, Google Cloud, Cursor, v0, Colab, Visual Studio Code, IntelliJ, AWS, Supabase
 - Interests: NLP, LLMs, transformers/neural networks, and backend engineering
 
-## 📫 Let’s connect!
+## Let’s connect!
 
-- 📄 [My Resume](https://docs.google.com/document/d/1oZVb2JZuCdDZjKadW9LY-HVO1KKWhJHqXgIPAWDxvQw/edit?usp=sharing) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stevenvngo/)  
-- ✉️ Email: svinhngo@gmail.com
+- ✉️ Email: svinhngo@gmail.com, svngo@ucsd.edu
 
 Thanks for stopping by — feel free to check out my projects below!
 
