@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub!  
 
 - I’m currently double majoring in **Data Science** and **Mathematics and Computer Science** at **UC San Diego**
-- I'm working on **physics/biology research** with Dr. Rappel at UCSD, modeling cell motility (aggregative multicellularity) by leveraging **computer vision**/object detection to model eukaryotic/amoebic behavior under starvation
+- I'm working on **physics/biology research** with Dr. Rappel at UCSD, modeling cell motility (aggregative multicellularity) by leveraging **computer vision**/object detection to vectorize eukaryotic/amoebic behavior under starvation
 - I've led ML research on **mechanistic interpretability** of pivotal tokens to predict **CoT reasoning shifts in LLMs** (w/ Cole Blondin & Sean O'Brien, BlackBoxNLP @ EMNLP 2025), and benchmarked **SOTA MLLMs and VLMs** on novel **multimodal spatial reasoning** and planning tasks (w/ Kevin Zhu, FrontierIR @ AAAI 2025)
 - I enjoy building AI-powered applications, exploring ML research, and working on B2B products for startups, particularly those that solve impactful real-world problems in **policy, healthcare, finance, etc.**
 
