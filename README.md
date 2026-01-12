@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 Welcome to my GitHub!  
 
 - I’m currently double majoring in **Data Science** and **Mathematics and Computer Science** at **UC San Diego**
-- I'm working on **physics/biology research** with Dr. Rappel at UCSD, modeling cell motility (aggregative multicellularity) by leveraging **computer vision**/object detection to vectorize eukaryotic/amoebic behavior under starvation
-- I've led ML research on **mechanistic interpretability** of pivotal tokens to predict **CoT reasoning shifts in LLMs** (w/ Cole Blondin & Sean O'Brien, BlackBoxNLP @ EMNLP 2025), and benchmarked **SOTA MLLMs and VLMs** on novel **multimodal spatial reasoning** and planning tasks (FrontierIR @ AAAI 2025, VLM @ NeurIPS 2025)
+- I'm working on **physics/biology research** with Dr. Wouter-Jan Rappel at UCSD in the Rappel Lab, modeling cell motility (aggregative multicellularity) by leveraging **computer vision**/object detection to vectorize eukaryotic/amoebic behavior under starvation
+- I'm also working at MixLab UCSD HDSI on **ML**-related projects, ranging from LLM Behavioral Research to Rediscovery Agents
+- I've led ML research on **mechanistic interpretability** of pivotal tokens to predict **CoT reasoning shifts in LLMs** (w/ Cole Blondin & Sean O'Brien, EMNLP 2025), and benchmarked **SOTA MLLMs and VLMs** on novel **multimodal spatial reasoning** and planning tasks (AAAI 2026)
 - I enjoy building AI-powered applications, exploring ML research, and working on B2B products for startups, particularly those that solve impactful real-world problems in **policy, healthcare, finance, etc.**
 
 ## Technologies & Tools
@@ -32,7 +33,7 @@ Welcome to my GitHub!
 ## Let’s connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/stevenvngo/)  
-- ✉️ Email: svinhngo@gmail.com, svngo@ucsd.edu
+- ✉️ Email: svngo@ucsd.edu
 
 Thanks for stopping by — feel free to check out my projects below!
 
