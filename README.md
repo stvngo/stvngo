@@ -27,7 +27,7 @@ Welcome to my GitHub!
 
 - Languages: Python, Java, C++, JavaScript/TypeScript, SQL, MATLAB, LaTex
 - Libraries & Frameworks: PyTorch, pandas, scikit-learn, React.js, Node.js, Next.js, Express.js, TailwindCSS, FastAPI
-- Tools & Platforms: Git, Docker, Google Cloud, Cursor, v0, Colab, Visual Studio Code, IntelliJ, AWS, Supabase
+- Tools & Platforms: Git, Docker, Google Cloud, Cursor, v0, Colab, Visual Studio Code, IntelliJ, AWS, Firebase, Supabase, MongoDB, PostgreSQL, 
 - Interests: NLP, LLMs, transformers/neural networks, and backend engineering
 
 ## Let’s connect!
