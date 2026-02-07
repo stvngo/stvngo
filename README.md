@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Welcome to my GitHub!  
 
 - I’m currently majoring in **Data Science** and **Mathematics** at **UC San Diego**, transferring to UC Berkeley in Fall 2025
-- I'm working on **Biophysics** research** with Dr. Wouter-Jan Rappel at UCSD in the Rappel Lab, modeling cell motility (aggregative multicellularity) by leveraging **computer vision** via particle-tracking algorithms to vectorize eukaryotic/amoebic behavior under starvation
-- I'm also working at MixLab UCSD in HDSI on **ML**-related projects, ranging from LLM Behavioral Research to applied Agentic AI 
+- I'm working on **Biophysics** research** with Dr. Wouter-Jan Rappel at UCSD in the Rappel Lab, modeling Dictyostelium motility by leveraging tracking algorithms to vectorize aggregative behavior under starvation
+- I'm also working at MixLab UCSD in HDSI on **ML**-related projects, ranging from LLM Behavioral Research to applied Agentic AI
 - I've led ML research on **mechanistic interpretability** of pivotal tokens to predict **CoT reasoning shifts in LLMs** with Cole Blondin (Amazon) & Sean O'Brien (UCSD) accepted EMNLP 2025, and benchmarked **SOTA MLLMs and VLMs** on novel **multimodal spatial reasoning** and planning tasks (AAAI 2026)
 - I enjoy building AI-powered applications, exploring ML research, and working on B2B products for startups that solve impactful real-world problems in **policy, healthcare, finance, etc.**
 
