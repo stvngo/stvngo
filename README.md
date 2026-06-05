@@ -3,12 +3,13 @@
 Welcome to my GitHub!  
 
 - I’m currently majoring in **Data Science** and **Mathematics** at **UC San Diego**
-- I'm working on **Biophysics** research with Dr. Wouter-Jan Rappel at UCSD in the Rappel Lab, modeling Dictyostelium motility by leveraging tracking algorithms and statistical mechanics to analyze their aggregative behavior under starvation
-- I also do research at MixLab UCSD, contributing to **ML**-related projects in areas of agentic AI
-- I've led ML research on **mechanistic interpretability** of pivotal tokens with Cole Blondin (Amazon) & Sean O'Brien (UCSD) accepted to EMNLP 2025, and benchmarked **SOTA MLLMs and VLMs** on novel **multimodal spatial reasoning** and planning tasks (AAAI 2026)
-- I enjoy building leveraging AI tools to build DSML applications, exploring ML research, and working on projects that solve impactful real-world problems in **policy, health, finance, etc.**
+- I enjoy building leveraging AI tools to build DS/ML applications, exploring ML research, and working on projects that solve impactful real-world problems in a wide variety of fields (Environmental, Civil, Medicine, Physics)
+- I'm working on Biophysics research closely with *Dr. Wouter-Jan Rappel* and *Yi-Chieh Lai* at the **[Rappel Lab](https://rappel.ucsd.edu/)**, modeling multi-cellular organization in D. Discoidium experiments, via multi-object tracking algorithms and data extraction workflows to analyze their aggregative mechanics under starvation
+- I also contribute to ML research projects at **[MixLab UCSD](https://mixlab.ucsd.edu/)** in various areas of agentic AI
+- I've led ML research on mechanistic interpretability of pivotal tokens *(EMNLP 2025)*, and benchmarked SOTA MLLMs and VLMs on novel multimodal spatial reasoning and planning tasks *(AAAI 2026)*, under many talented researchers at **Algoverse**
+- This summer, I'm funded by the **National Science Foundation** to do an Applied ML Research Experience for Undergraduates (REU) program on redefining construction project similarity via representation learning, at Texas A&M University
 
-<!-- ## Skills
+## Skills
 
 ### Languages
 
@@ -54,7 +55,7 @@ Welcome to my GitHub!
 <!-- ![Embeddings](https://img.shields.io/badge/Embeddings-8E44AD?style=for-the-badge)
 ![Model Deployment](https://img.shields.io/badge/Model_Deployment-2ECC71?style=for-the-badge) -->
 
-<!-- ### Backend & Infrastructure
+### Backend & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,11 +76,12 @@ Welcome to my GitHub!
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)  -->
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
+<!-- 
 ### Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stvngo&layout=donut&langs_count=8&theme=transparent&hide_border=true)](https://github.com/stvngo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stvngo&layout=donut&langs_count=8&theme=transparent&hide_border=true)](https://github.com/stvngo) -->
 
 ## Let’s connect!
 
